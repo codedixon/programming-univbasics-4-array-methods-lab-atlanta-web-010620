@@ -22,5 +22,4 @@ end
 
 def using_size(array)
   array.length
-
 end
